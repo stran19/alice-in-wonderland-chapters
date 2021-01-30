@@ -1,0 +1,62 @@
+#banner {
+  width: 1900px;
+  height:300px;
+}
+
+#navbar {
+  background-color: #00b9ab;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  font-size: 30px;
+  line-height: 50px;
+  margin: 0 50px;
+}
+
+body {
+  background-image: url("background.jpg");
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Hachi Maru Pop', cursive;
+}
+
+#text {
+  background-color: #dcdde0;
+  width: 75%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin:auto;
+
+}
+
+.mad {
+  position: relative;
+  width:500px;
+  height:300px;
+}
+
+.soldiers {
+  height: 200px;
+  width: 175px;
+  padding: 10px 15px;
+}
+
+.queen {
+  width: 500px;
+}
+
+.game {
+  
+}
+#home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
